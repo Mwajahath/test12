@@ -35,7 +35,7 @@ public class ECommerce {
             System.out.println("Catch");
         }
         else{
-            System.out.println("fall");
+            System.out.println("Thankyou for visiting");
         }
     }
 }
