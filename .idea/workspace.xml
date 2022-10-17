@@ -18,6 +18,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2G5Bzq20pi3LKS5m2tE8J5Tx4L0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,6 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="ECommerce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -49,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665668832496</updated>
-      <workItem from="1665668833944" duration="7138000" />
+      <workItem from="1665668833944" duration="7448000" />
     </task>
     <servers />
   </component>
